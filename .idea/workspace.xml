@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3337f822-1ebd-4f2e-84c1-64a4926f37a4" name="默认更改列表" comment="">
+    <list default="true" id="3337f822-1ebd-4f2e-84c1-64a4926f37a4" name="默认更改列表" comment="默认更改列表">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/756e75b5-6c46-4e26-b1cb-722ff3f6b088.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/756e75b5-6c46-4e26-b1cb-722ff3f6b088.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +60,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1luVwN6rg6Dvr7iwfPmErG78Bw9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -77,9 +81,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -97,7 +100,7 @@
       <recent name="F:\Django-Workspace\Sec_Tools\vulnscan\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Django server.Sec_Tools">
+  <component name="RunManager" selected="Django 服务器.Sec_Tools">
     <configuration name="iplocating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sec_Tools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,7 +258,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.Sec_Tools" />
+      <item itemvalue="Django 服务器.Sec_Tools" />
       <item itemvalue="Python.tests" />
       <item itemvalue="Python.waf" />
       <item itemvalue="Python.webweight" />
@@ -271,6 +274,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -471,41 +475,23 @@
       <workItem from="1627275018880" duration="3357000" />
       <workItem from="1629977424026" duration="2680000" />
       <workItem from="1636104332221" duration="312000" />
+      <workItem from="1645939139455" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636104397316">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1636104397316" />
-    <state width="1879" height="245" key="GridCell.Tab.0.bottom" timestamp="1636105467429">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1879" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1636105467429" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630039117153" />
-    <state width="1879" height="245" key="GridCell.Tab.0.center" timestamp="1636105467428">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1879" height="245" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1636105467428" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630039117153" />
-    <state width="1879" height="245" key="GridCell.Tab.0.left" timestamp="1636105467428">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1879" height="245" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1636105467428" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630039117153" />
-    <state width="1879" height="245" key="GridCell.Tab.0.right" timestamp="1636105467429">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1879" height="245" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1636105467429" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630039117153" />
-    <state x="124" y="125" key="SettingsEditor" timestamp="1629979303120">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="124" y="125" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629979303120" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,9 +511,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sec_Tools$tests.coverage" NAME="tests Coverage Results" MODIFIED="1611375008694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan" />
+    <SUITE FILE_PATH="coverage/Sec_Tools$waf.coverage" NAME="waf Coverage Results" MODIFIED="1612317731040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan/plugins/waf" />
     <SUITE FILE_PATH="coverage/Sec_Tools$webweight.coverage" NAME="webweight Coverage Results" MODIFIED="1611371576818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan/plugins/webweight" />
     <SUITE FILE_PATH="coverage/Sec_Tools$iplocating.coverage" NAME="iplocating Coverage Results" MODIFIED="1614854827171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan_backend/plugins/iplocating" />
-    <SUITE FILE_PATH="coverage/Sec_Tools$waf.coverage" NAME="waf Coverage Results" MODIFIED="1612317731040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan/plugins/waf" />
     <SUITE FILE_PATH="coverage/Sec_Tools$views.coverage" NAME="views Coverage Results" MODIFIED="1614855558582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vulnscan" />
     <SUITE FILE_PATH="coverage/Sec_Tools$whatcms.coverage" NAME="whatcms Coverage Results" MODIFIED="1611976199517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webscan/plugins/whatcms" />
   </component>
